@@ -1,0 +1,7 @@
+cuenta,password,nombreapellidos,descripcion,grupo
+usu1Infor,Mnmgeb-1,Manolo Tomas Gonzalez,Usuario 1 Departamento Informatica,DepInformatica
+usu2Infor,Mnmgeb-1,Paco Romero Garcia,Usuario 2 Departamento Informatica,DepInformatica
+usu1Mark,Mnmgeb-1,Juanjo Salom Aya,Usuario 1 Departamento Marketing,DepMarketing
+usu2Mark,Mnmgeb-1,Andrea Richart Hidalgo,Usuario 2 Departamento Marketing,DepMarketing
+usu1RH,Mnmgeb-1,Laura Sos Urbano,Usuario 1 Departamento Recursos Humanos,DepMarketing
+usu2RH,Mnmgeb-1,Silvia Garcia Tobon,Usuario 2 Departamento Recursos Humanos,DepMarketing
