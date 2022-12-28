@@ -2,5 +2,5 @@
 
 while IFS=, read -r nombre Descripcion
 do
-  groupadd $nombre
+  sudo groupadd "$nombre"
 done < Grupos.csv
