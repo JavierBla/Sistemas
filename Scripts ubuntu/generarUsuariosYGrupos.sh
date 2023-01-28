@@ -1,0 +1,13 @@
+#!bin/bash
+groupadd Dep_Sistemas_Informacion
+groupadd Dep_Desarrollo_Software
+groupadd Dep_Explotacion_Software
+
+useradd usu_sinformacion
+passwd usu_sinformacion
+
+useradd usu_desarrollo
+passwd usu_desarrollo
+
+useradd usu_explotacion
+passwd usu_explotacion
