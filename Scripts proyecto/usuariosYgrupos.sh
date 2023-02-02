@@ -9,6 +9,9 @@ groupadd DAM
 
 groupadd Publico_rwx
 groupadd Publico_rx
+groupadd ESO_rx
+groupadd BACH_rx
+groupadd DAM_rx
 
 groupadd 1ESO_rwx
 groupadd 2ESO_rwx
@@ -25,5 +28,5 @@ useradd -m -s /bin/bash -G 4ESO usu_4ESO
 useradd -m -s /bin/bash -G 1BACH usu_1BACH
 useradd -m -s /bin/bash -G 2BACH usu_2BACH
 useradd -m -s /bin/bash -G DAM usu_DAM
-useradd -m -s /bin/bash -G Publico_rx alumnado
-useradd -m -s /bin/bash -G Publico_rwx profesorado
+useradd alumnado
+useradd profesorado
