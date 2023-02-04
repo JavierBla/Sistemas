@@ -1,4 +1,3 @@
-mkdir Publico
 setfacl -m d:g:Publico_rwx:rwx /Publico
 setfacl -m g:Publico_rwx:rwx /Publico
 setfacl -m d:other:0 /Publico
