@@ -12,7 +12,6 @@ groupdel Publico_rwx
 groupdel Publico_rx
 groupdel ESO_rx
 groupdel BACH_rx
-groupdel DAM_rx
 groupdel 1ESO
 groupdel 2ESO
 groupdel 3ESO
