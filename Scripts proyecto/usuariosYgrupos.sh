@@ -11,7 +11,6 @@ groupadd Publico_rwx
 groupadd Publico_rx
 groupadd ESO_rx
 groupadd BACH_rx
-groupadd DAM_rx
 
 groupadd 1ESO_rwx
 groupadd 2ESO_rwx
