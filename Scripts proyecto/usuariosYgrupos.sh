@@ -27,5 +27,5 @@ useradd -m -s /bin/bash -G 4ESO usu_4ESO
 useradd -m -s /bin/bash -G 1BACH usu_1BACH
 useradd -m -s /bin/bash -G 2BACH usu_2BACH
 useradd -m -s /bin/bash -G DAM usu_DAM
-useradd alumnado
-useradd profesorado
+useradd -m -s /bin/bash alumnado
+useradd -m -s /bin/bash profesorado
