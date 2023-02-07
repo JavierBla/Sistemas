@@ -8,7 +8,8 @@ setfacl -m d:other:0 /Publico
 setfacl -m other:0 /Publico
 setfacl -m g:Publico_rx:rx /Publico
 
-mkdir -p /Publico/{1ESO,2ESO,3ESO,4ESO,1BACH,2BACH,DAM}
+cd /Publico/
+mkdir -p 1ESO 2ESO 3ESO 4ESO 1BACH 2BACH DAM
 
 setfacl -m d:g:1ESO_rwx:rwx /Publico/1ESO/
 setfacl -m g:1ESO_rwx:rwx /Publico/1ESO/
