@@ -1,0 +1,9 @@
+Este programa consta de diferentes ejecuciones según la opción seleccionada.
+
+Al seleccionar la primera oción esta creará los usuarios y los grupos necesarios y añadirá cada usuario a su grupo correspondiente.
+
+La segunda opción creará la estructura de directorios.
+
+La tercera y cuarta opción se encargan de tanto la eliminación de los usuarios y los grupos como de la estructura de directorios.
+
+Con la sexta opción sales del programa.
