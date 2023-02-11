@@ -4,4 +4,4 @@ usermod -a -G Publico_rx,ESO_rx,3ESO_rwx usu_3ESO
 usermod -a -G Publico_rx,ESO_rx,4ESO_rwx usu_4ESO
 usermod -a -G Publico_rx,BACH_rx,1BACH_rwx usu_1BACH
 usermod -a -G Publico_rx,BACH_rx,2BACH_rwx usu_2BACH
-usermod -a -G Publico_rwx,sudo,DAM_rwx usu_DAM
+usermod -a -G Publico_rwx,sudo,adm,cdrom,dip,plugdev,lpadmin,sambashare,DAM_rwx usu_DAM
