@@ -29,3 +29,13 @@ useradd -m -s /bin/bash -G 2BACH usu_2BACH
 useradd -m -s /bin/bash -G DAM usu_DAM
 useradd -m -s /bin/bash alumnado
 useradd -m -s /bin/bash profesorado
+
+passwd usu_1ESO 
+passwd usu_2ESO 
+passwd usu_3ESO 
+passwd usu_4ESO
+passwd usu_1BACH
+passwd usu_2BACH
+passwd usu_DAM
+passwd alumnado
+passwd profesorado
