@@ -1,12 +1,12 @@
-userdel usu_1ESO
-userdel usu_2ESO
-userdel usu_3ESO
-userdel usu_4ESO
-userdel usu_1BACH
-userdel usu_2BACH
-userdel usu_DAM
-userdel profesorado
-userdel alumnado
+deluser --remove-home usu_1ESO
+deluser --remove-home usu_2ESO
+deluser --remove-home usu_3ESO
+deluser --remove-home usu_4ESO
+deluser --remove-home usu_1BACH
+deluser --remove-home usu_2BACH
+deluser --remove-home usu_DAM
+deluser --remove-home profesorado
+deluser --remove-home alumnado
 
 groupdel Publico_rwx
 groupdel Publico_rx
