@@ -7,3 +7,6 @@ wget https://www.aemet.es/imagenes_d/eltiempo/prediccion/mapa_frentes/2023032112
 wget https://www.aemet.es/imagenes_d/eltiempo/prediccion/mapa_frentes/2023032112+036_ww_g1x0a2c1.gif
 wget https://www.aemet.es/imagenes_d/eltiempo/prediccion/mapa_frentes/2023032112+048_ww_g1x0a2d2.gif
 wget https://www.aemet.es/imagenes_d/eltiempo/prediccion/mapa_frentes/2023032112+060_ww_g1x0a2c2.gif
+
+
+ount -vvvv -t nfs -o vers=3 nfs-server:/share /mnt/nfs
