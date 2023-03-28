@@ -1,5 +1,5 @@
 #!/bin/bash
-DIR_DESTINO="/mnt/nas/aemet/frentes/$(date +"%Y")/$(date +"%-m")/$(date +"%-d")"
+DIR_DESTINO="/mnt/nas/frentes/$(date +"%Y")/$(date +"%-m")/$(date +"%-d")"
 
 
 wget -P "${DIR_DESTINO}" https://www.aemet.es/imagenes_d/eltiempo/prediccion/mapa_frentes/$(date +%Y%m%d)00+000_ww_gpx0a000.gif
