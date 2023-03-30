@@ -4,7 +4,7 @@ DIR_DESTINO="/mnt/nas/frentes/$(date +"%-m")/$(date +"%-d")"
 
 wget -P "${DIR_DESTINO}" https://www.aemet.es/imagenes_d/eltiempo/prediccion/mapa_frentes/$(date +%Y%m%d)00+000_ww_gpx0a000.gif
 
-wget -P "${DIR_DESTINO}" https://www.aemet.es/imagenes_d/eltiempo/prediccion/mapa_frentes/$(date +%Y%m%d)12+000_ww_gpx0a200.gif
+wget -P "${DIR_DESTINO}" https://www.aemet.es/imagenes_d/eltiempo/prediccion/mapa_frentes/$(date -d "yesterday" +%Y%m%d)12+000_ww_gpx0a200.gif
 
 wget -P "${DIR_DESTINO}" https://www.aemet.es/imagenes_d/eltiempo/prediccion/mapa_frentes/$(date -d "yesterday" +%Y%m%d)12+036_ww_g1x0a2c1.gif
 
