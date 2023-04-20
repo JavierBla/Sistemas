@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+
+<html>
+  <body>
+     <h1>Hola, no se lo cuentes a nadie.</h1>
+     <p>Esta es la página secreta de Javier</p>
+  </body>
+</html>
