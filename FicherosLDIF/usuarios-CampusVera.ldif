@@ -1,0 +1,121 @@
+dn: uid=salbam,ou=usuarios,ou=campVera,dc=equipo3,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: salbam
+sn: Alba
+givenName: Sara
+cn: Sara Alba
+displayName: Sara
+uidNumber: 6016
+gidNumber: 5008
+userPassword: {SSHA}BzRsYwdyuA/qciNBl0xGhETGf02/cXyL/Imo
+loginShell: /bin/bash
+homeDirectory: /home/salbam
+
+dn: uid=icarvalhoa,ou=usuarios,ou=campVera,dc=equipo3,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: icarvalhoa
+sn: Carvalho
+givenName: Isabel
+cn: Isabel Carvalho
+displayName: Isabel
+uidNumber: 6017
+gidNumber: 5008
+userPassword: {SSHA}BzRsYwdyuA/qciNBl0xGhETGf02/cXyL/Imo
+loginShell: /bin/bash
+homeDirectory: /home/icarvalhoa
+
+dn: uid=fcamposg,ou=usuarios,ou=campVera,dc=equipo3,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: fcamposg
+sn: Campos
+givenName: Francisco
+cn: Francisco Campos
+displayName: Franciso
+uidNumber: 6018
+gidNumber: 5009
+userPassword: {SSHA}BzRsYwdyuA/qciNBl0xGhETGf02/cXyL/Imo
+loginShell: /bin/bash
+homeDirectory: /home/fcamposg
+
+
+dn: uid=bmonchoc,ou=usuarios,ou=campVera,dc=equipo3,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: bmonchoc
+sn: Moncho
+givenName: Basilio
+cn: Basilio Moncho
+displayName: Basilio
+uidNumber: 6019
+gidNumber: 5009
+userPassword: {SSHA}BzRsYwdyuA/qciNBl0xGhETGf02/cXyL/Imo
+loginShell: /bin/bash
+homeDirectory: /home/bmonchoc
+
+dn: uid=rchavesc,ou=usuarios,ou=campVera,dc=equipo3,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: rchavesc
+sn: Chaves
+givenName: Rodrigo
+cn: Rodrigo Chaves
+displayName: Rodrigo
+uidNumber: 6020
+gidNumber: 5010
+userPassword: {SSHA}BzRsYwdyuA/qciNBl0xGhETGf02/cXyL/Imo
+loginShell: /bin/bash
+homeDirectory: /home/rchavesc
+
+dn: uid=jalvac,ou=usuarios,ou=campVera,dc=equipo3,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: jalvac
+sn: Alba
+givenName: Jhoan
+cn: Jhoan Alba
+displayName: Jhoan
+uidNumber: 6021
+gidNumber: 5010
+userPassword: {SSHA}BzRsYwdyuA/qciNBl0xGhETGf02/cXyL/Imo
+loginShell: /bin/bash
+homeDirectory: /home/jalvac
+
+
+dn: uid=baparicior,ou=usuarios,ou=campVera,dc=equipo3,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: baparicior
+sn: Aparicio
+givenName: Benito
+cn: Benito Aparicio
+displayName: Benito
+uidNumber: 6022
+gidNumber: 5011
+userPassword: {SSHA}BzRsYwdyuA/qciNBl0xGhETGf02/cXyL/Imo
+loginShell: /bin/bash
+homeDirectory: /home/baparicior
+
+dn: uid=jbustosm,ou=usuarios,ou=campVera,dc=equipo3,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: jbustosm
+sn: Bustos
+givenName: Jorge
+cn: Jorge Bustos
+displayName: Jorge
+uidNumber: 6023
+gidNumber: 5011
+userPassword: {SSHA}BzRsYwdyuA/qciNBl0xGhETGf02/cXyL/Imo
+loginShell: /bin/bash
+homeDirectory: /home/jbustosm

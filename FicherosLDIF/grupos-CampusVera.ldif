@@ -1,0 +1,19 @@
+dn: cn=GGPrensa,ou=grupos,ou=campVera,dc=equipo3,dc=local
+objectClass: posixGroup
+cn: GGPrensa
+gidNumber: 5008
+
+dn: cn=GGAdministracion,ou=grupos,ou=campVera,dc=equipo3,dc=local
+objectClass: posixGroup
+cn: GGAdministracion
+gidNumber: 5009
+
+dn: cn=GGInformatica,ou=grupos,ou=campVera,dc=equipo3,dc=local
+objectClass: posixGroup
+cn: GGInformatica
+gidNumber: 5010
+
+dn: cn=GGRectorado,ou=grupos,ou=campVera,dc=equipo3,dc=local
+objectClass: posixGroup
+cn: GGRectorado
+gidNumber: 5011

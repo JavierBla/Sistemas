@@ -1,0 +1,11 @@
+dn: ou=campVera,dc=equipo3,dc=local
+objectClass: organizationalUnit
+ou: campVera
+
+dn: ou=usuarios,ou=campVera,dc=equipo3,dc=local
+objectClass: organizationalUnit
+ou: usuarios
+
+dn: ou=grupos,ou=campVera,dc=equipo3,dc=local
+objectClass: organizationalUnit
+ou: grupos
