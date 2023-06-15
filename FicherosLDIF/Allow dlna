@@ -1,0 +1,15 @@
+sudo ufw allow 8200/tcp
+
+Instalación minidlna:
+sudo apt install minidlna
+sudo service minidlna start
+
+
+
+
+
+Set glances server
+glances -s
+
+You can now establish a connection to the server machine on the client using:
+glances -c @SERVER-IP
